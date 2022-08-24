@@ -8,3 +8,8 @@
 	url = https://github.com/zeehio/condformat
 	shallow = true
 	registered = true
+[submodule "MassSpecWavelet"]
+	path = MassSpecWavelet
+	url = https://github.com/zeehio/massspecwavelet
+	shallow = true
+	registered = true

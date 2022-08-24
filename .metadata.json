@@ -2,5 +2,8 @@
   {
     "package": "condformat",
     "oncran": true
+  },
+  {
+    "package": "MassSpecWavelet"
   }
 ]
