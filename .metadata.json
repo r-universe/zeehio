@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "sgolay",
+    "oncran": true
+  },
+  {
     "package": "MassSpecWavelet"
   }
 ]
