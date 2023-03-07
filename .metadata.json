@@ -1,5 +1,14 @@
 [
   {
+    "package": "AlpsNMR"
+  },
+  {
+    "package": "GCIMS"
+  },
+  {
+    "package": "MassSpecWavelet"
+  },
+  {
     "package": "condformat",
     "oncran": true
   },
@@ -8,6 +17,6 @@
     "oncran": true
   },
   {
-    "package": "MassSpecWavelet"
+    "package": "ChemometricsWithR"
   }
 ]

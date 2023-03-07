@@ -1,8 +1,23 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/zeehio/zeehio.r-universe.dev
 	shallow = true
 	branch = HEAD
+[submodule "AlpsNMR"]
+	path = AlpsNMR
+	url = https://github.com/sipss/AlpsNMR
+	shallow = true
+	registered = true
+[submodule "GCIMS"]
+	path = GCIMS
+	url = https://github.com/sipss/GCIMS
+	shallow = true
+	registered = true
+[submodule "MassSpecWavelet"]
+	path = MassSpecWavelet
+	url = https://github.com/zeehio/MassSpecWavelet
+	shallow = true
+	registered = true
 [submodule "condformat"]
 	path = condformat
 	url = https://github.com/zeehio/condformat
@@ -13,8 +28,8 @@
 	url = https://github.com/zeehio/sgolay
 	shallow = true
 	registered = true
-[submodule "MassSpecWavelet"]
-	path = MassSpecWavelet
-	url = https://github.com/zeehio/massspecwavelet
+[submodule "ChemometricsWithR"]
+	path = ChemometricsWithR
+	url = https://github.com/rwehrens/ChemometricsWithR
 	shallow = true
 	registered = true
