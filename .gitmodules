@@ -33,11 +33,6 @@
 	url = https://github.com/rwehrens/ChemometricsWithR
 	shallow = true
 	registered = true
-[submodule "ggplot2"]
-	path = ggplot2
-	url = https://github.com/tidyverse/ggplot2
-	shallow = true
-	registered = false
 [submodule "plotly"]
 	path = plotly
 	url = https://github.com/plotly/plotly.R

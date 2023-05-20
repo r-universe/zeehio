@@ -1,11 +1,5 @@
 [
   {
-    "package": "ggplot2",
-    "url": "https://github.com/tidyverse/ggplot2",
-    "via": ["GCIMS", "plotly"],
-    "from": "GCIMS"
-  },
-  {
     "package": "plotly",
     "url": "https://github.com/plotly/plotly.R",
     "via": ["GCIMS"],
