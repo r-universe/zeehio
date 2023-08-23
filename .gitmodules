@@ -5,6 +5,9 @@
 [submodule "AlpsNMR"]
 	path = AlpsNMR
 	url = https://github.com/sipss/AlpsNMR
+[submodule "ChemometricsWithR"]
+	path = ChemometricsWithR
+	url = https://github.com/rwehrens/ChemometricsWithR
 [submodule "GCIMS"]
 	path = GCIMS
 	url = https://github.com/sipss/GCIMS
@@ -17,6 +20,3 @@
 [submodule "sgolay"]
 	path = sgolay
 	url = https://github.com/zeehio/sgolay
-[submodule "ChemometricsWithR"]
-	path = ChemometricsWithR
-	url = https://github.com/rwehrens/ChemometricsWithR
