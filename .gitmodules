@@ -17,6 +17,9 @@
 [submodule "condformat"]
 	path = condformat
 	url = https://github.com/zeehio/condformat
+[submodule "httpuv"]
+	path = httpuv
+	url = https://github.com/zeehio/httpuv
 [submodule "sgolay"]
 	path = sgolay
 	url = https://github.com/zeehio/sgolay
