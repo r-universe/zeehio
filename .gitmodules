@@ -17,12 +17,24 @@
 [submodule "MassSpecWavelet"]
 	path = MassSpecWavelet
 	url = https://github.com/zeehio/MassSpecWavelet
+[submodule "SeuratData"]
+	path = SeuratData
+	url = https://github.com/satijalab/seurat-data
+	registered = false
+[submodule "SeuratDisk"]
+	path = SeuratDisk
+	url = https://github.com/mojaveazure/seurat-disk
+	registered = false
 [submodule "condformat"]
 	path = condformat
 	url = https://github.com/zeehio/condformat
 [submodule "pow"]
 	path = pow
 	url = https://github.com/sipss/pow
+	registered = false
+[submodule "presto"]
+	path = presto
+	url = https://github.com/immunogenomics/presto
 	registered = false
 [submodule "sgolay"]
 	path = sgolay
