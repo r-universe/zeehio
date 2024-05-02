@@ -20,6 +20,10 @@
 [submodule "httpuv"]
 	path = httpuv
 	url = https://github.com/zeehio/httpuv
+[submodule "pow"]
+	path = pow
+	url = https://github.com/sipss/pow
+	registered = false
 [submodule "sgolay"]
 	path = sgolay
 	url = https://github.com/zeehio/sgolay
