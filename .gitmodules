@@ -14,12 +14,12 @@
 [submodule "MassSpecWavelet"]
 	path = MassSpecWavelet
 	url = https://github.com/zeehio/MassSpecWavelet
+[submodule "azimuth"]
+	path = azimuth
+	url = https://github.com/zeehio/azimuth
 [submodule "condformat"]
 	path = condformat
 	url = https://github.com/zeehio/condformat
-[submodule "httpuv"]
-	path = httpuv
-	url = https://github.com/zeehio/httpuv
 [submodule "pow"]
 	path = pow
 	url = https://github.com/sipss/pow
