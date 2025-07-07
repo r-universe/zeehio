@@ -5,6 +5,9 @@
 [submodule "AlpsNMR"]
 	path = AlpsNMR
 	url = https://github.com/sipss/AlpsNMR
+[submodule "Azimuth"]
+	path = Azimuth
+	url = https://github.com/zeehio/azimuth
 [submodule "ChemometricsWithR"]
 	path = ChemometricsWithR
 	url = https://github.com/rwehrens/ChemometricsWithR
@@ -14,9 +17,6 @@
 [submodule "MassSpecWavelet"]
 	path = MassSpecWavelet
 	url = https://github.com/zeehio/MassSpecWavelet
-[submodule "azimuth"]
-	path = azimuth
-	url = https://github.com/zeehio/azimuth
 [submodule "condformat"]
 	path = condformat
 	url = https://github.com/zeehio/condformat
