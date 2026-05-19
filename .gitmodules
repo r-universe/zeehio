@@ -20,6 +20,10 @@
 [submodule "condformat"]
 	path = condformat
 	url = https://github.com/zeehio/condformat
+[submodule "odbc"]
+	path = odbc
+	url = https://github.com/zeehio/odbc
+	branch = databricks-config-file
 [submodule "sgolay"]
 	path = sgolay
 	url = https://github.com/zeehio/sgolay
