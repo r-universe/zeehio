@@ -5,9 +5,6 @@
 [submodule "AlpsNMR"]
 	path = AlpsNMR
 	url = https://github.com/sipss/AlpsNMR
-[submodule "Azimuth"]
-	path = Azimuth
-	url = https://github.com/zeehio/azimuth
 [submodule "ChemometricsWithR"]
 	path = ChemometricsWithR
 	url = https://github.com/rwehrens/ChemometricsWithR
@@ -20,10 +17,6 @@
 [submodule "condformat"]
 	path = condformat
 	url = https://github.com/zeehio/condformat
-[submodule "odbc"]
-	path = odbc
-	url = https://github.com/zeehio/odbc
-	branch = databricks-config-file
 [submodule "sgolay"]
 	path = sgolay
 	url = https://github.com/zeehio/sgolay
